@@ -121,3 +121,4 @@ const setItensBD = () => localStorage.setItem('dbfunc', JSON.stringify(itens));
 
 // Carrega os itens ao iniciar a aplicação
 loadItens();
+
