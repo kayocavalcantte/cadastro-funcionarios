@@ -2,6 +2,8 @@
 
 ![Logo do Sistema](assets/imagem-site.png)
 
+link do site https://kayocavalcantte.github.io/cadastro-funcionarios/
+
 Este é um sistema CRUD (Create, Read, Update, Delete) desenvolvido para o cadastro de funcionários, permitindo a criação, visualização, edição e exclusão de registros de funcionários. O sistema é construído usando HTML, CSS e JavaScript, e utiliza o localStorage do navegador para persistência dos dados.
 
 ## Funcionalidades
